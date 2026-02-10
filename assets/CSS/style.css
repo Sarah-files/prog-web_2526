@@ -1,0 +1,42 @@
+/*css pour le cours de programmation web*/ 
+
+
+body{
+    background-color:yellow;
+    font-size: 14px;
+    font-size: larger;
+}
+
+#page {
+    background-color: olive;
+    margin: 20% auto;
+    border-style: ridge;
+    border-color: crimson;
+   
+}
+
+h1, h2 {
+    font-size: larger;
+}
+
+
+.entete {
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+#aboutme{
+    font-size: medium;
+    color:darkblue;
+    text-align: center;
+    margin: auto;
+    list-style-position: inside;
+}
+
+footer{
+    text-align: center;
+
+}
